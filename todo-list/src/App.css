@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f3dcc2;
+  background-color: rgb(199, 194, 149);
   margin: 0;
   padding: 0;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .todo-container {
-  background-color: #ab47f7; /* Lavender background */
+  background-color: #c386f1; /* Lavender background */
   padding: 30px;
   width: 400px;
   border-radius: 10px;
