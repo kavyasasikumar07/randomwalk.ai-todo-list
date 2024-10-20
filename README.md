@@ -13,8 +13,7 @@ i18next for localization and internationalization support.
 📜 Getting Started:
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/inclusive-todo-list.git
+
 Navigate to the project folder:
 bash
 Copy code
